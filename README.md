@@ -28,3 +28,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windbreake&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
+<!-- 贪吃蛇贡献图 -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/windbreake/windbreake/assets/github-contribution-grid-snake.svg" alt="snake" />
+</p>
