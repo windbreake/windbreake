@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=24&pause=1000&color=F750EE&center=true&random=true&width=435&lines=Here+is+NekoSunami~)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=24&pause=1000&color=F750EE&center=true&vCenter=true&random=true&width=435&lines=Here+is+NekoSunami~)](https://git.io/typing-svg)
 <p align="center">
   <!-- GitHub -->
   <img src="https://img.shields.io/github/last-commit/windbreake/windbreake?color=ff69b4&logo=github" alt="GitHub"/>
