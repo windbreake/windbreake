@@ -25,3 +25,7 @@
   <img src="https://img.shields.io/github/repo-size/windbreake/windbreake?color=important&logo=files" alt="Repo Size"/>
   <img src="https://img.shields.io/github/license/windbreake/windbreake?logo=open-source-initiative&logoColor=white" alt="License"/>
 </p>
+<!-- 语言统计单独一行 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windbreake&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
