@@ -1,3 +1,10 @@
+<!-- 最顶部居中打字机 + 一行五平台小水牌 -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=24&pause=1000&color=F750EE&center=true&vCenter=true&random=true&width=435&lines=Here+is+NekoSunami~" alt="Typing" />
+  </a>
+  <br/>
+
 <p align="center">
   <!-- GitHub -->
   <img src="https://img.shields.io/github/last-commit/windbreake/windbreake?color=ff69b4&logo=github" alt="GitHub"/>
