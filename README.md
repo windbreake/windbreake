@@ -20,7 +20,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/windbreake/windbreake?color=ff69b4&logo=github" alt="Last Commit"/>
-  <img src="https://img.shields.io/github/languages/top/windbreake/windbreake?logo=c%23&logoColor=white" alt="Top Language"/>
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fwindbreake%2Fwindbreake%2Flanguages&query=%24%5B1%5D&label=2nd%20lang&color=319795&logo=files&logoColor=white" alt="2nd Lang"/>
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fwindbreake%2Fwindbreake%2Flanguages&query=%24%5B2%5D&label=3rd%20lang&color=f59e0b&logo=files&logoColor=white" alt="3rd Lang"/>
   <img src="https://img.shields.io/github/repo-size/windbreake/windbreake?color=important&logo=files" alt="Repo Size"/>
