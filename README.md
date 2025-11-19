@@ -11,6 +11,7 @@
   <!-- Pixiv -->
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.obfs.dev%2Fapi%2Fpixiv%2Fuser%3Fuid%3D67618798&query=%.data.follower&label=pixiv%20followers&color=ff69b4&logo=pixiv"/>
 </p>
+
 ![Last Commit](https://img.shields.io/github/last-commit/windbreake/NekoPixelArtGenerator?color=ff69b4&logo=github)
 ![Top Language](https://img.shields.io/github/languages/top/windbreake/NekoPixelArtGenerator?logo=c%23&logoColor=white)
 ![Repo Size](https://img.shields.io/github/repo-size/windbreake/NekoPixelArtGenerator?color=important&logo=files)
