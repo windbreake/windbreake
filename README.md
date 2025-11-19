@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=24&pause=1000&color=F750EE&random=true&width=435&lines=Here+is+NekoSunami~)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=24&pause=1000&color=F750EE&center=true&random=true&width=435&lines=Here+is+NekoSunami~)](https://git.io/typing-svg)
 
 
 <p align="center">
