@@ -33,6 +33,14 @@
   <img src="https://img.shields.io/github/issues-closed/windbreake/windbreake?style=for-the-badge&color=green&logo=github" alt="Closed Issues"/>
 </p>
 
+
+<p align="center">
+    我是 <strong>NekoSuanmi</strong>，一只不肥的技术死宅，目前正在修读计算机科学与技术本科，闲着没事儿会搓点奇思妙想的小玩意，水平有限，请谅解 awa<br/>
+    邮箱：<a href="mailto:windbreak339@gmail.com">windbreak339@gmail.com</a><br/>QQ：<a href="http://wpa.qq.com/msgrd?v=3&uin=706154549&site=qq&menu=yes">706154549</a>
+  </p>
+   <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+
+-   <a href="https://space.bilibili.com/640021223?spm_id_from=333.1007.0.0  "><code><img height="20" src="bilibili.png"></code></a>：我的B站主页
 <!-- 4. 项目插件（示例，按需增删） -->
 <p align="center">
   <a href="https://github.com/windbreake/Shizuku_Nya_Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=windbreake&repo=Shizuku_Nya_Bot&show_owner=false" width="400"></a>
