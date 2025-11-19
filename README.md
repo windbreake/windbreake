@@ -28,4 +28,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windbreake&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
-<div align="center"><img src="https://raw.githubusercontent.com/windbreake/windbreake/main/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/windbreake/windbreake/main/assets/github-contribution-grid-snake.svg" alt="snake"/>
+</div>
