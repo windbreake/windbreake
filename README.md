@@ -33,7 +33,14 @@
   <img src="https://img.shields.io/github/issues-closed/windbreake/windbreake?style=for-the-badge&color=green&logo=github" alt="Closed Issues"/>
 </p>
 
-
+<!-- 4. 项目插件（示例，按需增删） -->
+<p align="center">
+  <a href="https://github.com/windbreake/Shizuku_Nya_Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=windbreake&repo=Shizuku_Nya_Bot&show_owner=false" width="400"></a>
+  &nbsp;
+  <a href="https://github.com/windbreake/NekoPixelArtGenerator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=windbreake&repo=NekoPixelArtGenerator&show_owner=false" width="400"></a>
+</p>
+<br><br><br>
+<br><br><br>
 <!-- 年度贡献 & 语言统计 并排 -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=windbreake&show_icons=true&theme=radical&hide_rank=true&count_private=true" alt="GitHub Stats"/>
